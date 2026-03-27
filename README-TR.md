@@ -9,7 +9,7 @@
 
 ## 📱 Zeyn Eczane Mobil Uygulaması
 Bu depo Backend API ve Web arayüzünü içermektedir. Çoklu QR tarama ve belge çözümleme işlemleri için geliştirilen mobil uygulama ayrı bir depoda tutulmaktadır.
-👉 **[Zeyn Eczane Mobil Deposunu incelemek için buraya tıklayın](#)**
+👉 **[Zeyn Eczane Mobil Deposunu incelemek için buraya tıklayın](https://github.com/Nartkansat/ZeynEczaneMobileApp)**
 
 ## 🚀 Proje Hakkında
 ZeynPharmacy, geleneksel eczane yönetim yazılımlarının ötesine geçerek, **eczaneler arası takas sistemini** merkeze alan yenilikçi bir platform sunar. Modern web teknolojileriyle geliştirilen uygulama, sıkı güvenlik yetkilendirme katmanlarından veritabanı performans optimizasyonlarına kadar her aşamada sektörel standartları (Best Practices) barındırmaktadır.
