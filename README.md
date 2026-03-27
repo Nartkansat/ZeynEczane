@@ -11,8 +11,6 @@
 This repository contains the Backend API and Web UI. The mobile application, built for multi-QR scanning and document decoding, is maintained in a separate repository.
 👉 **[Click here to view the ZeynPharmacy Mobile Repository](#)** 
 
----
-
 ## 🚀 About the Project
 ZeynPharmacy goes beyond traditional pharmacy management software by offering an innovative platform centered around an **inter-pharmacy swap system**. Developed with modern web technologies, the application incorporates industry best practices at every stage, from strict security authorization layers to database performance optimizations.
 
@@ -46,3 +44,9 @@ The project is strictly decoupled into modular layers, fully compliant with **Cl
 
 ## 🛡️ Security & Infrastructure Standards
 System security is maintained at the highest level. Entities or Database objects are never exposed directly to the outside world. Requests and Responses are transported via isolated DTOs. User session and token validation mechanisms play a proactive role across all endpoints and web components to prevent unauthorized access.
+
+---
+
+<p align="center">
+  <b>ZeynPharmacy</b> • 2026
+</p>
