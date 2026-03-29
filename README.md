@@ -50,3 +50,4 @@ System security is maintained at the highest level. Entities or Database objects
 <p align="center">
   <b>ZeynPharmacy</b> • 2026
 </p>
+
